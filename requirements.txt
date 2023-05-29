@@ -1,0 +1,7 @@
+pytest==7.3.1
+selene==2.0.0b17
+allure-pytest
+python-dotenv==0.20.0
+voluptuous==0.13.1
+pytest-voluptuous==1.2.0
+curlify==2.2.1
